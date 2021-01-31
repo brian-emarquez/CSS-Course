@@ -19,6 +19,6 @@
   
 </p>
   
-![python](./Images/css.jpg)
+![python](./images/css.jpg)
 
 
